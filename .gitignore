@@ -1,0 +1,7 @@
+# venv
+.Keras/
+# training set
+*.png
+*.jpg
+*.zip
+*.rar
