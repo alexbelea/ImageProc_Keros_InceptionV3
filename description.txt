@@ -1,0 +1,3 @@
+Brazilian coins (Kaggle), 5 classes
+765 train images
+300 validation images
