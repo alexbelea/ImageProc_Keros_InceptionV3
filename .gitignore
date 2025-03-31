@@ -1,7 +1,12 @@
 # venv
 .Keras/
+# files
+content/
+figures/
 # training set
 *.png
 *.jpg
+*.svg
 *.zip
 *.rar
+*.h5
