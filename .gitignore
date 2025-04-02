@@ -2,7 +2,7 @@
 .Keras/
 # files
 content/
-figures/
+!figures/
 # training set
 *.png
 *.jpg
