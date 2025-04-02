@@ -2,10 +2,13 @@
 .Keras/
 # files
 content/
-!figures/
+train/
+validation/
+UK_coins_ClassSplit/
+manual_test/
 # training set
-*.png
-*.jpg
+#!*.png
+#!*.jpg
 *.svg
 *.zip
 *.rar
