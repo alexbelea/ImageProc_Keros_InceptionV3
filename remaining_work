@@ -1,0 +1,25 @@
+
+
+
+PLAN
+
+
+
+Concentrate on Image Processing CW2:
+
+what still needs doing:
+
+    METHOD:
+    - Section: InceptionV3
+        - add code to google drive?
+    RESULTS:
+    - Accuracy Rezults - diagram of ok model with one brazillian layer unfrozen
+    - explain rezults ^
+    - add a few lines with the results |> here results|
+   
+    * - 
+    - Conclusions
+
+
+
+    - References
